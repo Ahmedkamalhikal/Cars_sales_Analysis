@@ -77,10 +77,3 @@ This project demonstrates:
 - End-to-end business intelligence workflow  
 
 ---
-
-## 👤 Author
-
-Ahmed Kamal  
-Data Analyst  
-
----
